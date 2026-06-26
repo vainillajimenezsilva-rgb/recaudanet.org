@@ -1,6 +1,0 @@
-{
-  "name": "Recaudanet Querétaro",
-  "description": "Portal oficial de consulta y pago de infracciones de tránsito del Estado de Querétaro.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
